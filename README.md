@@ -191,18 +191,5 @@ The system generates reports with:
 - Custom report templates
 - Integration with more LLM providers
 
-## 📄 License
-
-Specify your license here
-
-## 👤 Author
-
-Your Name / Organization
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
 ---
-
 **Built with** ❤️ using LangChain, Mistral AI, and Streamlit

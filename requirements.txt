@@ -1,13 +1,15 @@
-langchain
-langchain-core
-langchain-community
-langchain-mistralai
+langchain==0.1.11
+langchain-core==0.1.33
+langchain-community==0.0.29
+langchain-mistralai==0.0.13
 
-mistralai
+mistralai==0.0.14
 
-tavily-python
-beautifulsoup4
-requests
-lxml
+tavily-python==0.3.3
+beautifulsoup4==4.12.2
+requests==2.31.0
+lxml==4.9.3
 
-python_dotenv
+python-dotenv==1.0.0
+streamlit==1.31.1
+rich==13.7.0
